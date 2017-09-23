@@ -29,6 +29,8 @@ $$\mu_C$$
 the mean of incongruent will be 
 $$\mu_I$$
 
+Here, the means represent that of population.
+
 H0: There is no difference in population means of response time under incongruent and congruent scenarios, which can be mathematically represented as
 
 HA: There is a difference in population means of the response time under incongruent and congruent scenarios, which can be mathematically represented as
